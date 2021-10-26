@@ -1,11 +1,17 @@
-.App {
+body {
+  background-image: url(./images/mount-fuji.png);
+  background-size: 100%;
+  height: 85vh;
+  background-position: 50%;
+
+}
+.data-container {
   text-align: center;
   max-width: 900px;
   height: 400px;
-  background-color: darkslategray;
-  margin: auto;
-  opacity: .9;
+  background-color: rgb(44, 44, 44);
+  margin: 100px auto;
+  opacity: .8;
   border-radius: 20px;
   box-shadow: 5px 5px 5px black;
 }
-
